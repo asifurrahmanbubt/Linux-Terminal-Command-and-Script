@@ -1,6 +1,3 @@
-Here's your text converted into Markdown format for GitHub:
-
-```markdown
 # Bash Shell Commands
 
 Below are a series of shell commands to perform various operations:
