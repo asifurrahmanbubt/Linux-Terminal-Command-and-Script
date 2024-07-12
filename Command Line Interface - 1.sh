@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # 1. Display the path of your current directory.
 pwd
 
